@@ -8,13 +8,14 @@ namespace BMI
     public bmi_beregner()
     {
       InitializeComponent();
+      
     }
 
     private void udregn_Click(object sender, EventArgs e)
     {
       label_fejlbesked.Text = ""; //Fjern evt. tidligere fejlbesked
-      double d_vaegt = 0; //Opretter lokal variable af typen string
-      double d_hoejde = 0; //Opretter lokal variable af typen string
+      double d_vaegt = 0; //Opretter lokal variable af typen double
+      double d_hoejde = 0; //Opretter lokal variable af typen double
 
       bool vaegtParsedKorrekt = double.TryParse(vaegt.Text, out d_vaegt); //Prøver at parse _vaegt (string) til en lokal variable d_vaegt
       bool hoejdeParsedKorrekt = double.TryParse(hoejde.Text, out d_hoejde); //Prøvr at parse _hoejde (string) til en lokal variable d_hoejde
