@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26730.10
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kontrolstrukturer", "Kontrolstrukturer\Kontrolstrukturer.csproj", "{EE46A7D1-8E91-44E5-91FE-7AC4C2B1057B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kontrolstrukturer", "Kontrolstrukturer\Kontrolstrukturer.csproj", "{7204F7CF-0EC6-4E60-81C8-89F26C81F4D2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{EE46A7D1-8E91-44E5-91FE-7AC4C2B1057B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{EE46A7D1-8E91-44E5-91FE-7AC4C2B1057B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{EE46A7D1-8E91-44E5-91FE-7AC4C2B1057B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{EE46A7D1-8E91-44E5-91FE-7AC4C2B1057B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7204F7CF-0EC6-4E60-81C8-89F26C81F4D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7204F7CF-0EC6-4E60-81C8-89F26C81F4D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7204F7CF-0EC6-4E60-81C8-89F26C81F4D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7204F7CF-0EC6-4E60-81C8-89F26C81F4D2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {7653FABC-D16F-4FB9-9D87-AED4D44B7C8C}
+		SolutionGuid = {7467EDAE-3839-4FDA-8F53-B453B1F1717A}
 	EndGlobalSection
 EndGlobal

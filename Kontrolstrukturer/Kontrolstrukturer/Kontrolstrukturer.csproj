@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{EE46A7D1-8E91-44E5-91FE-7AC4C2B1057B}</ProjectGuid>
+    <ProjectGuid>{7204F7CF-0EC6-4E60-81C8-89F26C81F4D2}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>Kontrolstrukturer</RootNamespace>
     <AssemblyName>Kontrolstrukturer</AssemblyName>
